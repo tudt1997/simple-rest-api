@@ -1,5 +1,11 @@
 # Simple REST API
 
+A simple REST API with 2 endpoints:
+
+`/insert-pool`: Insert or append values to a pool
+
+`/calculate-quantile`: Calculate the quantile of a pool
+
 ## Requirements
 
 Python 3.6+
